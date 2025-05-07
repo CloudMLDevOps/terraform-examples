@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material mkdocs-include-dir-to-nav
+          pip install mkdocs mkdocs-material mkdocs-include-dir-to-nav mkdocs-include-markdown-plugin
 
       - name: Build MkDocs site
         run: |

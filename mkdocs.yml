@@ -38,6 +38,8 @@ plugins:
   - tags:
       tags_file: tags.md
   - blog
+  - mkdocs-macros-plugin
+  - include-markdown
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -53,8 +55,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - AWS:
-    - AWS_EKS: aws/aws_eks/fargate/spot_and_fargate/README.md
+  - AWS: aws/README.md
+  - AWS_EKS: aws/aws_eks/fargate/spot_and_fargate/README.md
   - AWS QnA: aws-qna/aws-questions-answers.md
   - AZURE: azurerm/
   - Code Docs:

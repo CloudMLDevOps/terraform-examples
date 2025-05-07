@@ -1,7 +1,7 @@
-## AWS Examples
+# Terraform Example
 
-Examples of AWS Terraform modules.
+## aws_db_cluster_snapshot
 
-Each module corresponds to a module that uses that resource, eg `aws_vpc`.
-
-
+--8<-- "aws_db_cluster_snapshot/simple/run.sh"
+--8<-- "aws_db_cluster_snapshot/simple/main.tf"
+--8<-- "aws_db_cluster_snapshot/simple/destroy.sh"
