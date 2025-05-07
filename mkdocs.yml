@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: DevOps Learning
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -47,6 +47,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - smarty
+  - toc:
+      permalink: true
 
 nav:
   - Home: index.md
