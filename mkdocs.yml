@@ -34,6 +34,7 @@ theme:
 
 plugins:
   - search
+  - include_dir_to_nav
   - tags:
       tags_file: tags.md
   - blog
@@ -51,6 +52,7 @@ nav:
   - Home: index.md
   - Code Docs:
     - Java: coding/my-first-java-file.md
+    - AWS_EKS: aws/aws_eks
   - About:
     - Current Projects: about/projects.md
     - About Me: about/about.md
