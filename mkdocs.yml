@@ -49,5 +49,6 @@ markdown_extensions:
 
 nav:
   - Home: INDEX.md
-  - AWS: aws
   - Tags: tags.md
+  - Blog:
+    - blog/index.md
