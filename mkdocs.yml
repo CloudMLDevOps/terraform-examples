@@ -52,7 +52,7 @@ nav:
   - Home: index.md
   - Code Docs:
     - Java: coding/my-first-java-file.md
-    - AWS_EKS: aws/aws_eks
+  - AWS_EKS: aws/aws_eks/README.md
   - About:
     - Current Projects: about/projects.md
     - About Me: about/about.md
