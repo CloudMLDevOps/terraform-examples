@@ -52,6 +52,7 @@ nav:
   - Home: index.md
   - AWS:
     - AWS_EKS: aws/aws_eks/fargate/spot_and_fargate/README.md
+  - AWS QnA: aws-qna/aws-questions-answers.md
   - AZURE: azurerm/
   - Code Docs:
     - Java: coding/my-first-java-file.md
