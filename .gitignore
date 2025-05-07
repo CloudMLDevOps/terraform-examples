@@ -1,3 +1,5 @@
+venv
+site
 **.terraform*
 **terraform.tfstate*
 **txt
