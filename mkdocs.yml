@@ -34,11 +34,11 @@ theme:
 
 plugins:
   - search
+  - include-markdown
   - include_dir_to_nav
   - tags:
       tags_file: tags.md
   - blog
-  - include-markdown
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -54,7 +54,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - AWS: aws/README.md
+  - AWS: README.md
   - AWS_EKS: aws/aws_eks/fargate/spot_and_fargate/README.md
   - AWS QnA: aws-qna/aws-questions-answers.md
   - AZURE: azurerm/
