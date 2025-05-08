@@ -52,6 +52,8 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - smarty
+  - admonition
+  - pymdownx.details
   - toc:
       permalink: true
 
