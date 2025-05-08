@@ -4,6 +4,7 @@
 
 ```hcl
 {% include "../terraform/01-s3/main.tf" %}
+```
 
 ---
 
