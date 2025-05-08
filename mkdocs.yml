@@ -58,7 +58,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - S3 Example: s3-example.md
-  - AWS: README.md
+  - AWS: aws/README.md
   - AWS_EKS: aws/aws_eks/fargate/spot_and_fargate/README.md
   - AWS QnA: aws-qna/aws-questions-answers.md
   - AZURE: azurerm/
