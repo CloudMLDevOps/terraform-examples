@@ -1,7 +1,11 @@
-# Terraform Example
+# S3 Terraform Example
 
-## aws_db_cluster_snapshot
+## main.tf
 
---8<-- "./aws_db_cluster_snapshot/simple/run.sh"
---8<-- "./aws_db_cluster_snapshot/simple/main.tf"
---8<-- "./aws_db_cluster_snapshot/simple/destroy.sh"
+--8<-- "../terraform/01-s3/main.tf"
+
+---
+
+## variables.tf
+
+--8<-- "../terraform/01-s3/variables.tf"
