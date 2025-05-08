@@ -2,7 +2,8 @@
 
 ## main.tf
 
---8<-- "../terraform/01-s3/main.tf"
+```hcl
+{% include "../terraform/01-s3/main.tf" %}
 
 ---
 
