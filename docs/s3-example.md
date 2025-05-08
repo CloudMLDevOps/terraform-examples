@@ -10,4 +10,6 @@
 
 ## variables.tf
 
---8<-- "../terraform/01-s3/variables.tf"
+```hcl
+{% include "../terraform/01-s3/variables.tf" %}
+```
